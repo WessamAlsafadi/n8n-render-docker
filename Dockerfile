@@ -11,5 +11,3 @@ ENV N8N_BASIC_AUTH_PASSWORD=1!Kratosprototype
 ENV WEBHOOK_URL=https://your-temp-url.com
 
 EXPOSE 5678
-
-CMD ["n8n"]
