@@ -9,6 +9,6 @@ ENV N8N_LOG_LEVEL=debug
   
 
 # This can be updated in Render Dashboard after deployment
-ENV WEBHOOK_URL=https://your-temp-url.com
+ENV WEBHOOK_URL=https://n8n-render-docker-hg4q.onrender.com                                                                                
 
 EXPOSE 5678
